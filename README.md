@@ -1,4 +1,4 @@
-# 👋 Hello, I'm 45-razrblds [![GitHub](https://img.shields.io/badge/Profile-45--razrblds-blue?logo=github)](https://github.com/45-razrblds)
+# 👋 Hello, I'm 45-razrblds 
 
 ✨ *Exploring the intersection of hardware and security*  
 📚 **Currently learning**: Pentesting | Embedded Systems Security | Reverse Engineering  
@@ -8,7 +8,7 @@
 
 ## 🔧 Featured Projects
 
-### [Projects Repository](https://github.com/45-razrblds/Projects) [![Arduino](https://img.shields.io/badge/Arduino-Uno_R3-00979D?logo=arduino)](https://github.com/45-razrblds/Projects)
+### [Projects Repository](https://github.com/45-razrblds/Projects) 
 My primary workspace for hardware and security experiments:
 - Embedded systems programming
 - IoT security prototypes
@@ -49,7 +49,7 @@ My primary workspace for hardware and security experiments:
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--0960--1774-A6CE39?logo=orcid)](https://orcid.org/0009-0004-0960-1774)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/lasse-saalmann-a89ba4328/)  
-✉️ [Email Me](mailto:lassefinn.saœrps.herten.de)
+✉️ [Email Me](mailto:lassefinn.sa@rps.herten.de)
 
 ---
 
@@ -61,4 +61,9 @@ My primary workspace for hardware and security experiments:
 
 > ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=github&layout=default&category=humourous)
 
-> *README last updated: January 2025*
+> *README last updated: February 2025*
+
+`CHECKSUM: a6bfb4554fe5ad408a9b0df4989b32af5df5dccef44caeeaeb29482a`
+
+
+
